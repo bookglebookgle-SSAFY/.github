@@ -24,7 +24,7 @@
 
 ## 📋 프로젝트 소개
 
-<img src="asset/bookgle_final_icon.png" height="200">
+<img src="../asset/bookgle_final_icon.png" height="200">
 
 📚 **북글북글(BookgleBookgle)** 은 PDF 문서를 함께 읽고 토론할 수 있는
 
@@ -100,7 +100,7 @@ AI가 참여하여 학습과 토론을 더 깊고 효과적으로 만들어 줍�
 - 빠른 접근을 위한 하단 네비게이션 제공
 
 <p align="left">
-<img src="asset/main.gif" height="500" style="margin-right: 20px;">
+<img src="../asset/main.gif" height="500" style="margin-right: 20px;">
 </p>
 
 ### 2. 모임 등록
@@ -110,7 +110,7 @@ AI가 참여하여 학습과 토론을 더 깊고 효과적으로 만들어 줍�
 - 백그라운드 OCR 작업으로 앱 성능 저하 최소화
 
 <p align="left">
-<img src="asset/create.gif" height="500" style="margin-right: 20px;">
+<img src="../asset/create.gif" height="500" style="margin-right: 20px;">
 </p>
 
 ### 3. 모임 관리
@@ -119,7 +119,7 @@ AI가 참여하여 학습과 토론을 더 깊고 효과적으로 만들어 줍�
 - 카테고리별 필터, 내가 만든 모임만 보기 지원
 
 <p align="left">
-<img src="asset/mygroup.gif" height="500" style="margin-right: 20px;">
+<img src="../asset/mygroup.gif" height="500" style="margin-right: 20px;">
 </p>
 
 ### 4. 모임 상세 보기
@@ -130,7 +130,7 @@ AI가 참여하여 학습과 토론을 더 깊고 효과적으로 만들어 줍�
 - 모임 종료 후 팀원 평점 등록
 
 <p align="left">
-<img src="asset/groupdetail.gif" height="500" style="margin-right: 20px;">
+<img src="../asset/groupdetail.gif" height="500" style="margin-right: 20px;">
 </p>
 
 ### 5. PDF 뷰어 & 동기화
@@ -141,15 +141,15 @@ AI가 참여하여 학습과 토론을 더 깊고 효과적으로 만들어 줍�
 - 하이라이트 및 주석 실시간 공유
 
 <p align="left">
-<img src="asset/pdf_1.gif" height="500" style="margin-right: 20px;">
+<img src="../asset/pdf_1.gif" height="500" style="margin-right: 20px;">
 </p>
 
 - 방장 권한 위임 가능
 - PDF 내 채팅 기능 제공
 
 <p align="left">
-<img src="asset/leader.gif" height="500" style="margin-right: 20px;">
-<img src="asset/pdf_chat.gif" height="500" style="margin-right: 20px;">
+<img src="../asset/leader.gif" height="500" style="margin-right: 20px;">
+<img src="../asset/pdf_chat.gif" height="500" style="margin-right: 20px;">
 </p>
 
 ### 6. 실시간 채팅
@@ -159,7 +159,7 @@ AI가 참여하여 학습과 토론을 더 깊고 효과적으로 만들어 줍�
 - gRPC 기반 통신으로 빠르고 안정적인 대화
 
 <p align="left">
-<img src="asset/chat.gif" height="500" style="margin-right: 20px;">
+<img src="../asset/chat.gif" height="500" style="margin-right: 20px;">
 </p>
 
 ### 7. AI 토론 & 퀴즈
@@ -170,7 +170,7 @@ AI가 참여하여 학습과 토론을 더 깊고 효과적으로 만들어 줍�
     - ✍ **첨삭 모임**: 자기소개서 첨삭 및 피드백 제공
 
 <p align="left">
-<img src="asset/quiz.gif" height="500" style="margin-right: 20px;">
+<img src="../asset/quiz.gif" height="500" style="margin-right: 20px;">
 </p>
 
 ### 8. 내 프로필
@@ -180,7 +180,7 @@ AI가 참여하여 학습과 토론을 더 깊고 효과적으로 만들어 줍�
 - 사용자 통계 정보 확인
 
 <p align="left">
-<img src="asset/myprofile.gif" height="500" style="margin-right: 20px;">
+<img src="../asset/myprofile.gif" height="500" style="margin-right: 20px;">
 </p>
 
 <br>
@@ -190,7 +190,7 @@ AI가 참여하여 학습과 토론을 더 깊고 효과적으로 만들어 줍�
 <details>
 <summary><strong>OCR + PdfBox-Android</strong></summary>
 
-![image.png](asset/ocr.png)
+![image.png](../asset/ocr.png)
 
 > 이미지 기반 PDF의 텍스트 인식 및 활용 시스템<br>
 > 
@@ -206,8 +206,8 @@ AI가 참여하여 학습과 토론을 더 깊고 효과적으로 만들어 줍�
 <details>
 <summary><strong>gRPC</strong></summary>
 
-![gRPC Stub (1).png](asset/gRPC_Stub.png)
-![gRPC Stub (2).png](asset/grpcc.png)
+![gRPC Stub (1).png](../asset/gRPC_Stub.png)
+![gRPC Stub (2).png](../asset/grpcc.png)
 
 > **gRPC 기반 양방향 스트리밍**을 통해 PDF 주석/하이라이트 동기화, 실시간 채팅, AI 토론, 퀴즈를 저지연으로 처리<br>
 **실시간 상태 관리 & 이벤트 브로커** 역할을 수행하여 클라이언트 간 화면, 메시지, 퀴즈 진행 상황을 즉시 공유
@@ -282,7 +282,7 @@ AI가 참여하여 학습과 토론을 더 깊고 효과적으로 만들어 줍�
 
 ## 🏗️ 시스템 아키텍처
 
-![image.png](asset/architect.png)
+![image.png](../asset/architect.png)
 
 <br>
 
@@ -301,4 +301,4 @@ AI가 참여하여 학습과 토론을 더 깊고 효과적으로 만들어 줍�
 ### [🎨 Figma](https://www.figma.com/design/fc7T25rVce9NzzSfE5h6pm/Untitled?node-id=0-1&p=f&t=uuhq0vrpWAXzrhCK-0)
 
 
-[ERD Diagram](asset/erd.png)
+[ERD Diagram](../asset/erd.png)
